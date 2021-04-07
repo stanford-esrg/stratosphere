@@ -1,0 +1,8 @@
+grequests==0.6.0
+argparse==1.4.0
+python-dotenv
+requests
+pystalk
+numpy
+keras
+tensorflow

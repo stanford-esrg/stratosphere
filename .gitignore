@@ -1,0 +1,13 @@
+*.code-workspace
+*__pycache__*
+.DS_Store
+*.pyc
+.vscode
+bucket_validation/listener-config.json
+*.ipynb_checkpoints*
+*.ipynb
+bucket_validation/bloom/candidate_set.bloom
+bucket_validation/bloom/old_candidate_set.bloom
+bucket_generation/github_orgs/.env
+bucket_generation/github_orgs/repo_counts_for_1k_orgs.png
+.env
