@@ -2,7 +2,7 @@
 
 Stratosphere uses password generation algorithms to discover publicly accessible cloud storage buckets. Stratosphere includes infrastructure for extracting, generating, and validating bucket names across Amazon S3, Google Cloud Storage, and Alibaba's Object Storage Service.
 
-For more information about Stratosphere, read our paper here.
+For more information about Stratosphere, read our pre-print paper [here](https://zakird.com/papers/stratosphere-preprint.pdf).
 
 ![](images/flow.jpg)
 
